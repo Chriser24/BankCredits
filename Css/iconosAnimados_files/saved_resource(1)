@@ -1,0 +1,49 @@
+
+var ftGUID_4200773="5533CD1F4612CA";
+var ftConfID_4200773="0";
+var ftParams_4200773="ftOBA=1&ft_domain=www.flaticon.es&ft_ifb=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.flaticon.es%2Fresultados%3Fword%3Dcasa%26type%3Danimated-icon&us_privacy=${US_PRIVACY}&cachebuster=365266.6526700352&ft_dv=%5B%25ft_dv%25%5D";
+var ftKeyword_4200773="";
+var ftCustom_4200773="";
+var ftSection_4200773="";
+var ftSegment_4200773="akhr";
+var ftSegmentList_4200773=[{s:'akhr'}];
+var ftRuleMatch_4200773="0";
+var ftTimestamp_4200773="1678283454";
+var ftGeoC2_4200773="co";
+var ftGeoState_4200773="san";
+var ftGeoCity_4200773="bucaramanga";
+var ftISP_4200773="telmex colombia s.a.";
+var ftSpeed_4200773="broadband";
+var ftConnType_4200773="wifi";
+var ftDMA_4200773="-1";
+var ftLong_4200773="-73.11";
+var ftLat_4200773="7.13";
+var ftPostal_4200773="680002";
+var ftTimeZone_4200773="-500";
+var ftMobileCarrier_4200773="";
+var ftImp4200773 = {};
+ftImp4200773.privacy = "x";
+ftImp4200773.guidAge = "12";
+ftImp4200773.impID = "4C3B79EE-C14F-AC84-201D-0E765EAC3FF2";
+ftImp4200773.duid = "FT:5533CD1F4612CA";
+
+ftImp4200773.ft_tpplid = "";
+ftImp4200773.ft_c = {};
+ftImp4200773.gdpr = "";
+ftImp4200773.gdpr_consent = "";
+ftImp4200773.gdpr_pd = "";
+ftImp4200773.oob_consent = "";
+ftImp4200773.gdprStoredConsent = "";
+ftImp4200773.us_privacy = "!!US_PRIVACY!";
+
+ftImp4200773.jsAppend = "1";
+(function(){
+    var tag = document.getElementById('ft_servedby_4200773') || (function(s){
+    	return s[s.length-1];
+    }(document.getElementsByTagName('script'))),
+           js = document.createElement('script');
+    js.src =
+"https://cdn.flashtalking.com/xre/420/4200773/4223535/js/j-4200773-4223535.js";
+    js.id = "ftscript_m4200773";
+    tag.parentNode.insertBefore(js, tag);
+}());
